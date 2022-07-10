@@ -32,6 +32,7 @@ newlambo->doors = 8;
 
 printf("Werbung fuer den neuen Lambo: %d km_h und %d Tueren!\n", newlambo->vmax, newlambo->doors);
 
+//Das war alles nur ein Test:
 printf("Auch mit %d\n", newlambo->abs);
 
 return 0;
